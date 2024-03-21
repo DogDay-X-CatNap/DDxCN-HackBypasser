@@ -1,0 +1,9 @@
+//-- GAME ICONS
+stateNOTpressed = {0, 724, 73}
+statePRESSED = {1,848,53}
+function stateNOTpressed()
+0x28()
+stateNOTpressed()
+function statePRESSED()
+0x87()
+statePRESSED()
