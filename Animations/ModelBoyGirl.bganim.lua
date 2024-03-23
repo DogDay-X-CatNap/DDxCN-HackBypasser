@@ -1,0 +1,1 @@
+return(function(...)...)local H = {"Luraph v1.0","a","b",'d','c','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','zz','2923887eed47tgd4t63br6#ED%BR&#%BED#%Rfb73ED75rbf3r75f#7#",HNCNTCXETYTXEBXFTFBEWFWEftvwFVNWXNFvWXNVfXFnvtfnwwWXVNftWwVYFvnyfnywynfvynfvwEFNyEFednfWENYFvWEynvfvnyvyn"'}}end,g.unpack
