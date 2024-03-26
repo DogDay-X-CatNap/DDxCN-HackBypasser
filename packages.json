@@ -1,0 +1,10 @@
+{
+  
+  "description"="this is an hack which loads hacks on to bg"
+  {
+"name"="hack loader"
+  }
+}
+{
+  "min_engine_version"=[2,74,1]
+}
